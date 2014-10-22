@@ -3,7 +3,6 @@
 _++ Please do feel free to forward this CfP to anyone who you do think
 might be able to contribute to the distributions devroom ++_
 
-```
 FOSDEM (Free and Open Source Software Developers' European Meeting) is
 a free two-day conference at the Université Libre the Bruxelles, in
 Brussels, Belgium. FOSDEM in 2015 will be held on 31 Jan & 1 Feb 2015,
@@ -86,9 +85,9 @@ December 2014.
 Should you have any questions or comments you can contact the devroom
 organizers at distributions-devroom@lists.fosdem.org.
 
-Cheers,
+Cheers,  
 Andreas Thienemann on behalf of the Distribution Dev Room Program Committee
 
 Andreas Thienemann, Christoph Wickert, Jim Perrin, Rikki Endsley and
 Robyn Bergeron
-```
+
